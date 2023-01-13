@@ -1,0 +1,3 @@
+PRESENT=1;
+PART_TIME=2;
+ num=$((RANDOM%3))
